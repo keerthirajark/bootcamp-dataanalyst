@@ -11,7 +11,7 @@ Each *day* contains multiple *tasks*, and each task includes:
 - *output.jpg* → Any generated output (e.g., visualization images)  
 - *README.md* → Task-specific explanations  
 
----
+--- 
 
 ## *🛠 Getting Started*  
 
