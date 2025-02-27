@@ -1,0 +1,1 @@
+In this task I have learned about text processing method using scikit learning In this I have done converting a text to vector Understanding how vectors created from text I have implemented this in visual studio code
